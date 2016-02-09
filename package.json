@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/iostreamer-X/gitpullnode/issues"
   },
-  "homepage": "https://github.com/iostreamer-X/gitpullnode#readme"
+  "homepage": "https://github.com/iostreamer-X/gitpullnode#readme",
+  "dependencies": {
+    "deasync": "^0.1.4"
+  }
 }
