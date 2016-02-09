@@ -1,6 +1,6 @@
 {
   "name": "gitpullnode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Notifies your node app users to do a git pull whenever you commit.",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/iostreamer-X/gitpullnode/issues"
   },
-  "homepage": "https://github.com/iostreamer-X/gitpullnode#readme",
-  "dependencies": {
-    "deasync": "^0.1.4"
-  }
+  "homepage": "https://github.com/iostreamer-X/gitpullnode#readme"
 }
