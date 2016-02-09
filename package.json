@@ -1,6 +1,6 @@
 {
   "name": "gitpullnode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Notifies your node app users to do a git pull whenever you commit.",
   "main": "index.js",
   "scripts": {

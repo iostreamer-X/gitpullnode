@@ -11,3 +11,6 @@ each time I made any change. I wanted them to know it automatically whenever the
 
 # Use
 `require('gitpullnode')();`
+
+# Demo
+![](/scrsht.png)
